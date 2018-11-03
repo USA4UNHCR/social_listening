@@ -4,6 +4,9 @@
 # Ignore large data files in repo
 data/*
 
+# Ignore temporary scratch notebooks
+scratch/*
+
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
