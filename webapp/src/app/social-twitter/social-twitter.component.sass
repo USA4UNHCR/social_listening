@@ -1,0 +1,61 @@
+@keyframes logo-left-slide-in
+  from
+    left: -10px
+  to
+    left: 40px
+
+@keyframes content-right-slide-in
+  from
+    right: -100px
+  to
+    right: 30px
+
+.app-social-twitter
+  background-color: #00aced
+  width: 100%
+  height: calc(100vh - 58px)
+  position: relative
+  .background-logo
+    position: absolute
+    font-size: 100px
+    color: white
+    left: 40px
+    top: 20px
+    animation: logo-left-slide-in 0.8s ease-in-out
+  .main-content
+    position: absolute
+    right: 30px
+    bottom: 30px
+    height: calc(100vh - 160px)
+    width: calc(100vw - 200px)
+    animation: content-right-slide-in 0.8s ease-in-out
+    overfloww: scroll
+    display: flex
+    justify-content: space-between
+    .app-social-twitter-actions
+      width: 180px
+      display: flex
+      flex-direction: column
+      padding-right: 16px
+      border-right: 1px solid #efecec
+      > button
+        margin-bottom: 10px
+    .app-social-twitter-views
+      width: calc(100% - 200px)
+      .app-social-twitter-views-nav
+        height: 100%
+        display: flex
+        justify-content: space-around
+        align-items: center
+        .app-social-twitter-go-views
+          width: 200px
+          height: 150px
+          cursor: pointer
+          display: flex
+          align-items: center
+          text-align: center
+    .tableauPlaceholder:last-of-type
+      display: none !important
+    .tableauPlaceholder
+      height: 600px !important
+

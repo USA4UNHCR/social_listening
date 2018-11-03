@@ -1,0 +1,55 @@
+<div class="app-social-twitter">
+  <i class="fa fa-twitter background-logo" aria-hidden="true"></i>
+  <mat-card class="main-content">
+
+    <!-- Actions -->
+    <section class="app-social-twitter-actions">
+      <button mat-raised-button color="primary" routerLink="/">
+        <i class="fa fa-home mr-1" aria-hidden="true"></i>
+        Back to home
+      </button>
+      <button mat-raised-button color="primary" (click)="changeView()" *ngIf="view">
+        <i class="fa fa-twitter mr-1" aria-hidden="true"></i>
+        Back to twitter
+      </button>
+    </section>
+
+    <!-- Views -->
+    <section class="app-social-twitter-views">
+      <ng-container [ngSwitch]="view">
+
+        <!-- Country vs. # of tweets (With Ratio of Retweet/ tweet) view -->
+        <app-social-twitter-country-tweet
+          *ngSwitchCase="'twitter-country-tweet'"
+        ></app-social-twitter-country-tweet>
+
+        <app-social-maps
+          *ngSwitchCase="'percent-by-continents'"
+        ></app-social-maps>
+
+        <app-social-twitter-wordcloud
+          *ngSwitchCase="'twitter-wordcloud'"
+        ></app-social-twitter-wordcloud>
+
+        <!-- Go to view -->
+        <div class="app-social-twitter-views-nav" *ngSwitchDefault>
+          <!-- Country vs. # of tweets (With Ratio of Retweet/ tweet) -->
+          <mat-card (click)="changeView('twitter-country-tweet')" class="app-social-twitter-go-views">
+            Country vs. # of tweets (With Ratio of Retweet/ tweet)
+          </mat-card>
+
+          <!-- Percent of Positive Sentiments group by continents -->
+          <mat-card (click)="changeView('percent-by-continents')" class="app-social-twitter-go-views">
+            Percent of Positive Sentiments group by continents
+          </mat-card>
+
+          <!-- Word Cloud -->
+          <mat-card (click)="changeView('twitter-wordcloud')" class="app-social-twitter-go-views">
+            Word Cloud
+          </mat-card>
+        </div>
+      </ng-container>
+    </section>
+
+  </mat-card>
+</div>
