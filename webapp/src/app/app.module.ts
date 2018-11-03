@@ -22,6 +22,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { SocialComboDualAxesComponent } from './social-combo-dual-axes/social-combo-dual-axes.component';
 import { SocialTwitterCountryTweetComponent } from './social-twitter-country-tweet/social-twitter-country-tweet.component';
 import { SocialTwitterWordcloudComponent } from './social-twitter-wordcloud/social-twitter-wordcloud.component';
+import { SocialTwitterCountriesTweetComponent } from './social-twitter-countries-tweet/social-twitter-countries-tweet.component';
 
 
 @NgModule({
@@ -36,7 +37,8 @@ import { SocialTwitterWordcloudComponent } from './social-twitter-wordcloud/soci
     SocialMapsComponent,
     // SocialComboDualAxesComponent,
     SocialTwitterCountryTweetComponent,
-    SocialTwitterWordcloudComponent
+    SocialTwitterWordcloudComponent,
+    SocialTwitterCountriesTweetComponent
   ],
   imports: [
     BrowserModule,

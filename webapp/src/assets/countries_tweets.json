@@ -1,0 +1,1397 @@
+[
+  {
+    "Place.Country": "Zimbabwe",
+    "Place.Country Code": "ZW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.230769231,
+    "Latitude (generated)": -19.098,
+    "Longitude (generated)": 30.047,
+    "Number of Records": 13,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Zambia",
+    "Place.Country Code": "ZM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -15.13,
+    "Longitude (generated)": 25.268,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Western Sahara",
+    "Place.Country Code": "EH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 24.4813,
+    "Longitude (generated)": -13.6266,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Vietnam",
+    "Place.Country Code": "VN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 21.75,
+    "Longitude (generated)": 105.373,
+    "Number of Records": 6,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Venezuela",
+    "Place.Country Code": "VE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.5,
+    "Latitude (generated)": 6.983,
+    "Longitude (generated)": -64.588,
+    "Number of Records": 4,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Vatican City",
+    "Place.Country Code": "VA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 41.9034,
+    "Longitude (generated)": 12.4524,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Uruguay",
+    "Place.Country Code": "UY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -32.948,
+    "Longitude (generated)": -56.249,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "United States",
+    "Place.Country Code": "US",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.954184269,
+    "Latitude (generated)": 40.0792,
+    "Longitude (generated)": -98.8164,
+    "Number of Records": 19884,
+    "Retweet Count": 58741
+  },
+  {
+    "Place.Country": "United States",
+    "Place.Country Code": "PR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 18.242,
+    "Longitude (generated)": -66.643,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "United Kingdom",
+    "Place.Country Code": "GB",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.104753891,
+    "Latitude (generated)": 52.289,
+    "Longitude (generated)": -1.259,
+    "Number of Records": 4754,
+    "Retweet Count": 10006
+  },
+  {
+    "Place.Country": "United Arab Emirates",
+    "Place.Country Code": "AE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.666666667,
+    "Latitude (generated)": 23.9299,
+    "Longitude (generated)": 53.9031,
+    "Number of Records": 42,
+    "Retweet Count": 28
+  },
+  {
+    "Place.Country": "Ukraine",
+    "Place.Country Code": "UA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.689655172,
+    "Latitude (generated)": 49.364,
+    "Longitude (generated)": 32.132,
+    "Number of Records": 29,
+    "Retweet Count": 20
+  },
+  {
+    "Place.Country": "Uganda",
+    "Place.Country Code": "UG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.591304348,
+    "Latitude (generated)": 1.9392,
+    "Longitude (generated)": 32.7415,
+    "Number of Records": 115,
+    "Retweet Count": 413
+  },
+  {
+    "Place.Country": "Turkey",
+    "Place.Country Code": "TR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.511627907,
+    "Latitude (generated)": 39.144,
+    "Longitude (generated)": 34.188,
+    "Number of Records": 86,
+    "Retweet Count": 216
+  },
+  {
+    "Place.Country": "Tunisia",
+    "Place.Country Code": "TN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 5.166666667,
+    "Latitude (generated)": 35.594,
+    "Longitude (generated)": 9.421,
+    "Number of Records": 6,
+    "Retweet Count": 31
+  },
+  {
+    "Place.Country": "Trinidad and Tobago",
+    "Place.Country Code": "TT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.111111111,
+    "Latitude (generated)": 10.448,
+    "Longitude (generated)": -61.257,
+    "Number of Records": 9,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "The Netherlands",
+    "Place.Country Code": "NL",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.597484277,
+    "Latitude (generated)": 52.1704,
+    "Longitude (generated)": 5.0102,
+    "Number of Records": 159,
+    "Retweet Count": 95
+  },
+  {
+    "Place.Country": "Thailand",
+    "Place.Country Code": "TH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 7.95,
+    "Latitude (generated)": 15.688,
+    "Longitude (generated)": 100.845,
+    "Number of Records": 20,
+    "Retweet Count": 159
+  },
+  {
+    "Place.Country": "Tanzania",
+    "Place.Country Code": "TZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.692307692,
+    "Latitude (generated)": -5.651,
+    "Longitude (generated)": 34.146,
+    "Number of Records": 13,
+    "Retweet Count": 9
+  },
+  {
+    "Place.Country": "Taiwan",
+    "Place.Country Code": "TW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": "",
+    "Longitude (generated)": "",
+    "Number of Records": 5,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Syria",
+    "Place.Country Code": "SY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 7.285714286,
+    "Latitude (generated)": 35.303,
+    "Longitude (generated)": 38.322,
+    "Number of Records": 7,
+    "Retweet Count": 51
+  },
+  {
+    "Place.Country": "Switzerland",
+    "Place.Country Code": "CH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 15.323420074,
+    "Latitude (generated)": 46.7794,
+    "Longitude (generated)": 8.0329,
+    "Number of Records": 269,
+    "Retweet Count": 4122
+  },
+  {
+    "Place.Country": "Sweden",
+    "Place.Country Code": "SE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.539130435,
+    "Latitude (generated)": 66.2188,
+    "Longitude (generated)": 19,
+    "Number of Records": 115,
+    "Retweet Count": 177
+  },
+  {
+    "Place.Country": "Suriname",
+    "Place.Country Code": "SR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.5,
+    "Latitude (generated)": 4.248,
+    "Longitude (generated)": -55.848,
+    "Number of Records": 2,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "Sri Lanka",
+    "Place.Country Code": "LK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.454545455,
+    "Latitude (generated)": 7.3,
+    "Longitude (generated)": 80.727,
+    "Number of Records": 22,
+    "Retweet Count": 10
+  },
+  {
+    "Place.Country": "Spain",
+    "Place.Country Code": "ES",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.166666667,
+    "Latitude (generated)": 40.617,
+    "Longitude (generated)": -3.388,
+    "Number of Records": 138,
+    "Retweet Count": 161
+  },
+  {
+    "Place.Country": "South Africa",
+    "Place.Country Code": "ZA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.624505929,
+    "Latitude (generated)": -31.7,
+    "Longitude (generated)": 23.441,
+    "Number of Records": 253,
+    "Retweet Count": 158
+  },
+  {
+    "Place.Country": "Somalia",
+    "Place.Country Code": "SO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.375,
+    "Latitude (generated)": 2.875,
+    "Longitude (generated)": 43.446,
+    "Number of Records": 8,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Solomon Islands",
+    "Place.Country Code": "SB",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -9.611,
+    "Longitude (generated)": 160.19,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Slovak Republic",
+    "Place.Country Code": "SK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.125,
+    "Latitude (generated)": 48.8595,
+    "Longitude (generated)": 19.4434,
+    "Number of Records": 8,
+    "Retweet Count": 9
+  },
+  {
+    "Place.Country": "Singapore",
+    "Place.Country Code": "SG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.243243243,
+    "Latitude (generated)": 1.364,
+    "Longitude (generated)": 103.81,
+    "Number of Records": 37,
+    "Retweet Count": 46
+  },
+  {
+    "Place.Country": "Seychelles",
+    "Place.Country Code": "SC",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -4.627,
+    "Longitude (generated)": 55.461,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Senegal",
+    "Place.Country Code": "SN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.5,
+    "Latitude (generated)": 15.044,
+    "Longitude (generated)": -15.081,
+    "Number of Records": 12,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "São Tomé and Príncipe",
+    "Place.Country Code": "ST",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 0.233,
+    "Longitude (generated)": 6.589,
+    "Number of Records": 3,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Saint Vincent and the Grenadines",
+    "Place.Country Code": "VC",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 13.234,
+    "Longitude (generated)": -61.202,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Saint Lucia",
+    "Place.Country Code": "LC",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 13.865,
+    "Longitude (generated)": -60.98,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Rwanda",
+    "Place.Country Code": "RW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.647058824,
+    "Latitude (generated)": -1.887,
+    "Longitude (generated)": 29.904,
+    "Number of Records": 17,
+    "Retweet Count": 45
+  },
+  {
+    "Place.Country": "Russia",
+    "Place.Country Code": "RU",
+    "SUM([Retweet Count])/SUM([Number of Records])": 9.80952381,
+    "Latitude (generated)": 64.736,
+    "Longitude (generated)": 104.062,
+    "Number of Records": 21,
+    "Retweet Count": 206
+  },
+  {
+    "Place.Country": "Romania",
+    "Place.Country Code": "RO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.285714286,
+    "Latitude (generated)": 45.933,
+    "Longitude (generated)": 25.119,
+    "Number of Records": 7,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Republic of the Philippines",
+    "Place.Country Code": "PH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.691176471,
+    "Latitude (generated)": 17.181,
+    "Longitude (generated)": 121.256,
+    "Number of Records": 68,
+    "Retweet Count": 47
+  },
+  {
+    "Place.Country": "Republic of Slovenia",
+    "Place.Country Code": "SI",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 46.037,
+    "Longitude (generated)": 14.534,
+    "Number of Records": 4,
+    "Retweet Count": 4
+  },
+  {
+    "Place.Country": "Republic of Serbia",
+    "Place.Country Code": "RS",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.071428571,
+    "Latitude (generated)": 44.021,
+    "Longitude (generated)": 20.699,
+    "Number of Records": 14,
+    "Retweet Count": 15
+  },
+  {
+    "Place.Country": "Republic of Mozambique",
+    "Place.Country Code": "MZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -13.852,
+    "Longitude (generated)": 38.042,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Republic of Mauritius",
+    "Place.Country Code": "MU",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.5,
+    "Latitude (generated)": -20.323,
+    "Longitude (generated)": 57.518,
+    "Number of Records": 2,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Republic of Korea",
+    "Place.Country Code": "KR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 15.636363636,
+    "Latitude (generated)": 36.338,
+    "Longitude (generated)": 128.16,
+    "Number of Records": 22,
+    "Retweet Count": 344
+  },
+  {
+    "Place.Country": "Republic of Croatia",
+    "Place.Country Code": "HR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.333333333,
+    "Latitude (generated)": 45.754,
+    "Longitude (generated)": 16.385,
+    "Number of Records": 6,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Republic of Belarus",
+    "Place.Country Code": "BY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 53.3292,
+    "Longitude (generated)": 27.9492,
+    "Number of Records": 1,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "Qatar",
+    "Place.Country Code": "QA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.6,
+    "Latitude (generated)": 25.168,
+    "Longitude (generated)": 51.17,
+    "Number of Records": 25,
+    "Retweet Count": 90
+  },
+  {
+    "Place.Country": "Portugal",
+    "Place.Country Code": "PT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.893617021,
+    "Latitude (generated)": 40.957,
+    "Longitude (generated)": -7.9373,
+    "Number of Records": 47,
+    "Retweet Count": 42
+  },
+  {
+    "Place.Country": "Poland",
+    "Place.Country Code": "PL",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.162162162,
+    "Latitude (generated)": 52.442,
+    "Longitude (generated)": 19.72,
+    "Number of Records": 37,
+    "Retweet Count": 43
+  },
+  {
+    "Place.Country": "Peru",
+    "Place.Country Code": "PE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.25,
+    "Latitude (generated)": -12.664,
+    "Longitude (generated)": -72.98,
+    "Number of Records": 12,
+    "Retweet Count": 15
+  },
+  {
+    "Place.Country": "People's Republic of China",
+    "Place.Country Code": "CN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.142857143,
+    "Latitude (generated)": 35.1753,
+    "Longitude (generated)": 99.3877,
+    "Number of Records": 21,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Panama",
+    "Place.Country Code": "PA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.818181818,
+    "Latitude (generated)": 8.348,
+    "Longitude (generated)": -81.005,
+    "Number of Records": 11,
+    "Retweet Count": 9
+  },
+  {
+    "Place.Country": "Pakistan",
+    "Place.Country Code": "PK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.788732394,
+    "Latitude (generated)": 28.1854,
+    "Longitude (generated)": 66.6429,
+    "Number of Records": 142,
+    "Retweet Count": 254
+  },
+  {
+    "Place.Country": "Oman",
+    "Place.Country Code": "OM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 19.85,
+    "Longitude (generated)": 56.25,
+    "Number of Records": 17,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Norway",
+    "Place.Country Code": "NO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.903225806,
+    "Latitude (generated)": 61.3701,
+    "Longitude (generated)": 9.3031,
+    "Number of Records": 31,
+    "Retweet Count": 28
+  },
+  {
+    "Place.Country": "Nigeria",
+    "Place.Country Code": "NG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.35326087,
+    "Latitude (generated)": 9.3417,
+    "Longitude (generated)": 7.678,
+    "Number of Records": 184,
+    "Retweet Count": 617
+  },
+  {
+    "Place.Country": "Niger",
+    "Place.Country Code": "NE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.8,
+    "Latitude (generated)": 16.996,
+    "Longitude (generated)": 9.915,
+    "Number of Records": 25,
+    "Retweet Count": 45
+  },
+  {
+    "Place.Country": "Nicaragua",
+    "Place.Country Code": "NI",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.6,
+    "Latitude (generated)": 12.692,
+    "Longitude (generated)": -85.03,
+    "Number of Records": 5,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "New Zealand",
+    "Place.Country Code": "NZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.245283019,
+    "Latitude (generated)": -42.558,
+    "Longitude (generated)": 172.377,
+    "Number of Records": 159,
+    "Retweet Count": 198
+  },
+  {
+    "Place.Country": "Nepal",
+    "Place.Country Code": "NP",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 28.2114,
+    "Longitude (generated)": 83.5608,
+    "Number of Records": 8,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Nauru",
+    "Place.Country Code": "NR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 6.2,
+    "Latitude (generated)": -0.519,
+    "Longitude (generated)": 166.932,
+    "Number of Records": 5,
+    "Retweet Count": 31
+  },
+  {
+    "Place.Country": "Namibia",
+    "Place.Country Code": "NA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -21.276,
+    "Longitude (generated)": 17.219,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Myanmar",
+    "Place.Country Code": "MM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 21.841,
+    "Longitude (generated)": 96.05,
+    "Number of Records": 24,
+    "Retweet Count": 24
+  },
+  {
+    "Place.Country": "Morocco",
+    "Place.Country Code": "MA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.375,
+    "Latitude (generated)": 31.129,
+    "Longitude (generated)": -7.355,
+    "Number of Records": 16,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "Montenegro",
+    "Place.Country Code": "ME",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.25,
+    "Latitude (generated)": 42.857,
+    "Longitude (generated)": 19.096,
+    "Number of Records": 4,
+    "Retweet Count": 9
+  },
+  {
+    "Place.Country": "Monaco",
+    "Place.Country Code": "MC",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 43.733,
+    "Longitude (generated)": 7.416,
+    "Number of Records": 1,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "Mexico",
+    "Place.Country Code": "MX",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.5,
+    "Latitude (generated)": 22.925,
+    "Longitude (generated)": -101.68,
+    "Number of Records": 104,
+    "Retweet Count": 156
+  },
+  {
+    "Place.Country": "Mauritania",
+    "Place.Country Code": "MR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.148148148,
+    "Latitude (generated)": 19.413,
+    "Longitude (generated)": -10.6528,
+    "Number of Records": 27,
+    "Retweet Count": 58
+  },
+  {
+    "Place.Country": "Malta",
+    "Place.Country Code": "MT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3,
+    "Latitude (generated)": 35.884,
+    "Longitude (generated)": 14.446,
+    "Number of Records": 23,
+    "Retweet Count": 69
+  },
+  {
+    "Place.Country": "Maldives",
+    "Place.Country Code": "MV",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.333333333,
+    "Latitude (generated)": 4.221,
+    "Longitude (generated)": 73.463,
+    "Number of Records": 3,
+    "Retweet Count": 4
+  },
+  {
+    "Place.Country": "Malaysia",
+    "Place.Country Code": "MY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.864516129,
+    "Latitude (generated)": 4.416,
+    "Longitude (generated)": 102.099,
+    "Number of Records": 155,
+    "Retweet Count": 599
+  },
+  {
+    "Place.Country": "Malawi",
+    "Place.Country Code": "MW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.684210526,
+    "Latitude (generated)": -13.258,
+    "Longitude (generated)": 33.723,
+    "Number of Records": 19,
+    "Retweet Count": 51
+  },
+  {
+    "Place.Country": "Luxembourg",
+    "Place.Country Code": "LU",
+    "SUM([Retweet Count])/SUM([Number of Records])": 12.4,
+    "Latitude (generated)": 49.671,
+    "Longitude (generated)": 6.113,
+    "Number of Records": 5,
+    "Retweet Count": 62
+  },
+  {
+    "Place.Country": "Lithuania",
+    "Place.Country Code": "LT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 55.342,
+    "Longitude (generated)": 24.23,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Libya",
+    "Place.Country Code": "LY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 12,
+    "Latitude (generated)": 27.24,
+    "Longitude (generated)": 17.571,
+    "Number of Records": 2,
+    "Retweet Count": 24
+  },
+  {
+    "Place.Country": "Lebanon",
+    "Place.Country Code": "LB",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.381818182,
+    "Latitude (generated)": 34.161,
+    "Longitude (generated)": 36.021,
+    "Number of Records": 55,
+    "Retweet Count": 131
+  },
+  {
+    "Place.Country": "Latvia",
+    "Place.Country Code": "LV",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 57.017,
+    "Longitude (generated)": 25.0173,
+    "Number of Records": 5,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Kyrgyzstan",
+    "Place.Country Code": "KG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 41.741,
+    "Longitude (generated)": 75.043,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Kuwait",
+    "Place.Country Code": "KW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.4,
+    "Latitude (generated)": 29.396,
+    "Longitude (generated)": 47.326,
+    "Number of Records": 5,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Kosovo",
+    "Place.Country Code": "XK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.5,
+    "Latitude (generated)": 42.546,
+    "Longitude (generated)": 20.921,
+    "Number of Records": 4,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "Kiribati",
+    "Place.Country Code": "KI",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2,
+    "Latitude (generated)": 2.048,
+    "Longitude (generated)": -158.59,
+    "Number of Records": 1,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Kingdom of Saudi Arabia",
+    "Place.Country Code": "SA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.222222222,
+    "Latitude (generated)": 24.191,
+    "Longitude (generated)": 44.32,
+    "Number of Records": 27,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "Kenya",
+    "Place.Country Code": "KE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 5.794223827,
+    "Latitude (generated)": 0.806,
+    "Longitude (generated)": 38.166,
+    "Number of Records": 277,
+    "Retweet Count": 1605
+  },
+  {
+    "Place.Country": "Kazakhstan",
+    "Place.Country Code": "KZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 48.866,
+    "Longitude (generated)": 69.772,
+    "Number of Records": 1,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "Japan",
+    "Place.Country Code": "JP",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.428571429,
+    "Latitude (generated)": 35.962,
+    "Longitude (generated)": 137.855,
+    "Number of Records": 42,
+    "Retweet Count": 18
+  },
+  {
+    "Place.Country": "Jamaica",
+    "Place.Country Code": "JM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 17.65,
+    "Latitude (generated)": 18.163,
+    "Longitude (generated)": -77.477,
+    "Number of Records": 20,
+    "Retweet Count": 353
+  },
+  {
+    "Place.Country": "Ivory Coast",
+    "Place.Country Code": "CI",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.5,
+    "Latitude (generated)": 7.497,
+    "Longitude (generated)": -5.336,
+    "Number of Records": 4,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Italy",
+    "Place.Country Code": "IT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.135746606,
+    "Latitude (generated)": 44.3713,
+    "Longitude (generated)": 11.1084,
+    "Number of Records": 221,
+    "Retweet Count": 693
+  },
+  {
+    "Place.Country": "Israel",
+    "Place.Country Code": "IL",
+    "SUM([Retweet Count])/SUM([Number of Records])": 5.796296296,
+    "Latitude (generated)": 30.992,
+    "Longitude (generated)": 34.834,
+    "Number of Records": 54,
+    "Retweet Count": 313
+  },
+  {
+    "Place.Country": "Isle of Man",
+    "Place.Country Code": "IM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.625,
+    "Latitude (generated)": 54.234,
+    "Longitude (generated)": -4.522,
+    "Number of Records": 8,
+    "Retweet Count": 5
+  },
+  {
+    "Place.Country": "Islamic Republic of Iran",
+    "Place.Country Code": "IR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.142857143,
+    "Latitude (generated)": 33.408,
+    "Longitude (generated)": 54.0418,
+    "Number of Records": 7,
+    "Retweet Count": 15
+  },
+  {
+    "Place.Country": "Ireland",
+    "Place.Country Code": "IE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.557919622,
+    "Latitude (generated)": 53.214,
+    "Longitude (generated)": -7.588,
+    "Number of Records": 423,
+    "Retweet Count": 1505
+  },
+  {
+    "Place.Country": "Iraq",
+    "Place.Country Code": "IQ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 4.105263158,
+    "Latitude (generated)": 33.545,
+    "Longitude (generated)": 43.278,
+    "Number of Records": 19,
+    "Retweet Count": 78
+  },
+  {
+    "Place.Country": "Indonesia",
+    "Place.Country Code": "ID",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.178571429,
+    "Latitude (generated)": -0.739,
+    "Longitude (generated)": 114.045,
+    "Number of Records": 84,
+    "Retweet Count": 183
+  },
+  {
+    "Place.Country": "India",
+    "Place.Country Code": "IN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.799414348,
+    "Latitude (generated)": 22.741,
+    "Longitude (generated)": 78.236,
+    "Number of Records": 1366,
+    "Retweet Count": 3824
+  },
+  {
+    "Place.Country": "Iceland",
+    "Place.Country Code": "IS",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3,
+    "Latitude (generated)": 64.826,
+    "Longitude (generated)": -18.417,
+    "Number of Records": 7,
+    "Retweet Count": 21
+  },
+  {
+    "Place.Country": "Hungary",
+    "Place.Country Code": "HU",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.133333333,
+    "Latitude (generated)": 47.174,
+    "Longitude (generated)": 19.618,
+    "Number of Records": 30,
+    "Retweet Count": 34
+  },
+  {
+    "Place.Country": "Hong Kong",
+    "Place.Country Code": "HK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.333333333,
+    "Latitude (generated)": "",
+    "Longitude (generated)": "",
+    "Number of Records": 21,
+    "Retweet Count": 28
+  },
+  {
+    "Place.Country": "Honduras",
+    "Place.Country Code": "HN",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.25,
+    "Latitude (generated)": 14.881,
+    "Longitude (generated)": -87.123,
+    "Number of Records": 8,
+    "Retweet Count": 26
+  },
+  {
+    "Place.Country": "Hashemite Kingdom of Jordan",
+    "Place.Country Code": "JO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 4.147058824,
+    "Latitude (generated)": 30.681,
+    "Longitude (generated)": 36.279,
+    "Number of Records": 34,
+    "Retweet Count": 141
+  },
+  {
+    "Place.Country": "Haiti",
+    "Place.Country Code": "HT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3,
+    "Latitude (generated)": 19.3175,
+    "Longitude (generated)": -72.4205,
+    "Number of Records": 1,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Guatemala",
+    "Place.Country Code": "GT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 11.615384615,
+    "Latitude (generated)": 15.124,
+    "Longitude (generated)": -90.711,
+    "Number of Records": 13,
+    "Retweet Count": 151
+  },
+  {
+    "Place.Country": "Greece",
+    "Place.Country Code": "GR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.390977444,
+    "Latitude (generated)": 39.787,
+    "Longitude (generated)": 21.617,
+    "Number of Records": 133,
+    "Retweet Count": 185
+  },
+  {
+    "Place.Country": "Ghana",
+    "Place.Country Code": "GH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.54,
+    "Latitude (generated)": 7.258,
+    "Longitude (generated)": -1.062,
+    "Number of Records": 50,
+    "Retweet Count": 77
+  },
+  {
+    "Place.Country": "Germany",
+    "Place.Country Code": "DE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.951807229,
+    "Latitude (generated)": 51.3819,
+    "Longitude (generated)": 9.9877,
+    "Number of Records": 249,
+    "Retweet Count": 486
+  },
+  {
+    "Place.Country": "Georgia",
+    "Place.Country Code": "GE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.333333333,
+    "Latitude (generated)": 42.05,
+    "Longitude (generated)": 43.576,
+    "Number of Records": 9,
+    "Retweet Count": 3
+  },
+  {
+    "Place.Country": "Gambia",
+    "Place.Country Code": "GM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 13.499,
+    "Longitude (generated)": -14.641,
+    "Number of Records": 1,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "France",
+    "Place.Country Code": "FR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 5.684647303,
+    "Latitude (generated)": 46.656,
+    "Longitude (generated)": 2.543,
+    "Number of Records": 241,
+    "Retweet Count": 1370
+  },
+  {
+    "Place.Country": "Former Yugoslav Republic of Macedonia",
+    "Place.Country Code": "MK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 41.636,
+    "Longitude (generated)": 21.676,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Finland",
+    "Place.Country Code": "FI",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.206896552,
+    "Latitude (generated)": 62.716,
+    "Longitude (generated)": 26.192,
+    "Number of Records": 29,
+    "Retweet Count": 35
+  },
+  {
+    "Place.Country": "Fiji",
+    "Place.Country Code": "FJ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 4,
+    "Latitude (generated)": -17.8226,
+    "Longitude (generated)": 177.948,
+    "Number of Records": 2,
+    "Retweet Count": 8
+  },
+  {
+    "Place.Country": "Ethiopia",
+    "Place.Country Code": "ET",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.769230769,
+    "Latitude (generated)": 8.435,
+    "Longitude (generated)": 38.786,
+    "Number of Records": 13,
+    "Retweet Count": 23
+  },
+  {
+    "Place.Country": "Estonia",
+    "Place.Country Code": "EE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 58.777,
+    "Longitude (generated)": 25.977,
+    "Number of Records": 5,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "El Salvador",
+    "Place.Country Code": "SV",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.181818182,
+    "Latitude (generated)": 13.848,
+    "Longitude (generated)": -89.229,
+    "Number of Records": 11,
+    "Retweet Count": 13
+  },
+  {
+    "Place.Country": "Egypt",
+    "Place.Country Code": "EG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.466666667,
+    "Latitude (generated)": 26.16,
+    "Longitude (generated)": 28.742,
+    "Number of Records": 15,
+    "Retweet Count": 7
+  },
+  {
+    "Place.Country": "Ecuador",
+    "Place.Country Code": "EC",
+    "SUM([Retweet Count])/SUM([Number of Records])": 13.833333333,
+    "Latitude (generated)": -1.151,
+    "Longitude (generated)": -78.308,
+    "Number of Records": 18,
+    "Retweet Count": 249
+  },
+  {
+    "Place.Country": "Dominican Republic",
+    "Place.Country Code": "DO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.857142857,
+    "Latitude (generated)": 19.01,
+    "Longitude (generated)": -70.1685,
+    "Number of Records": 7,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "Djibouti",
+    "Place.Country Code": "DJ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.307692308,
+    "Latitude (generated)": 11.41,
+    "Longitude (generated)": 42.165,
+    "Number of Records": 13,
+    "Retweet Count": 17
+  },
+  {
+    "Place.Country": "Denmark",
+    "Place.Country Code": "DK",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.083333333,
+    "Latitude (generated)": 56.113,
+    "Longitude (generated)": 9.096,
+    "Number of Records": 24,
+    "Retweet Count": 26
+  },
+  {
+    "Place.Country": "Democratic Republic of Congo",
+    "Place.Country Code": "CD",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.75,
+    "Latitude (generated)": -1.418,
+    "Longitude (generated)": 23.607,
+    "Number of Records": 20,
+    "Retweet Count": 75
+  },
+  {
+    "Place.Country": "Czech Republic",
+    "Place.Country Code": "CZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.541666667,
+    "Latitude (generated)": 49.848,
+    "Longitude (generated)": 15.2812,
+    "Number of Records": 24,
+    "Retweet Count": 37
+  },
+  {
+    "Place.Country": "Cyprus",
+    "Place.Country Code": "CY",
+    "SUM([Retweet Count])/SUM([Number of Records])": 6.25,
+    "Latitude (generated)": 34.894,
+    "Longitude (generated)": 32.928,
+    "Number of Records": 24,
+    "Retweet Count": 150
+  },
+  {
+    "Place.Country": "Costa Rica",
+    "Place.Country Code": "CR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.111111111,
+    "Latitude (generated)": 10.126,
+    "Longitude (generated)": -84.075,
+    "Number of Records": 9,
+    "Retweet Count": 1
+  },
+  {
+    "Place.Country": "Colombia",
+    "Place.Country Code": "CO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 16.357142857,
+    "Latitude (generated)": 3.794,
+    "Longitude (generated)": -73.606,
+    "Number of Records": 28,
+    "Retweet Count": 458
+  },
+  {
+    "Place.Country": "Chile",
+    "Place.Country Code": "CL",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.285714286,
+    "Latitude (generated)": -23.176,
+    "Longitude (generated)": -69.201,
+    "Number of Records": 7,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Chad",
+    "Place.Country Code": "TD",
+    "SUM([Retweet Count])/SUM([Number of Records])": 4.333333333,
+    "Latitude (generated)": 15.981,
+    "Longitude (generated)": 18.781,
+    "Number of Records": 6,
+    "Retweet Count": 26
+  },
+  {
+    "Place.Country": "Central African Republic",
+    "Place.Country Code": "CF",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 7.043,
+    "Longitude (generated)": 21.424,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Cape Verde",
+    "Place.Country Code": "CV",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 15.416,
+    "Longitude (generated)": -23.36,
+    "Number of Records": 6,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Canada",
+    "Place.Country Code": "CA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 5.698481562,
+    "Latitude (generated)": 59.2067,
+    "Longitude (generated)": -111.1937,
+    "Number of Records": 1844,
+    "Retweet Count": 10508
+  },
+  {
+    "Place.Country": "Cameroon",
+    "Place.Country Code": "CM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 4.4,
+    "Longitude (generated)": 12.131,
+    "Number of Records": 2,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Cambodia",
+    "Place.Country Code": "KH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 12.69,
+    "Longitude (generated)": 104.444,
+    "Number of Records": 6,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Burkina Faso",
+    "Place.Country Code": "BF",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.333333333,
+    "Latitude (generated)": 12.673,
+    "Longitude (generated)": -1.226,
+    "Number of Records": 3,
+    "Retweet Count": 4
+  },
+  {
+    "Place.Country": "Bulgaria",
+    "Place.Country Code": "BG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1,
+    "Latitude (generated)": 42.625,
+    "Longitude (generated)": 24.521,
+    "Number of Records": 6,
+    "Retweet Count": 6
+  },
+  {
+    "Place.Country": "Brazil",
+    "Place.Country Code": "BR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.5,
+    "Latitude (generated)": -11.694,
+    "Longitude (generated)": -48.978,
+    "Number of Records": 98,
+    "Retweet Count": 49
+  },
+  {
+    "Place.Country": "Botswana",
+    "Place.Country Code": "BW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.333333333,
+    "Latitude (generated)": -22.126,
+    "Longitude (generated)": 23.662,
+    "Number of Records": 6,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Bosnia and Herzegovina",
+    "Place.Country Code": "BA",
+    "SUM([Retweet Count])/SUM([Number of Records])": 8.4,
+    "Latitude (generated)": 44.342,
+    "Longitude (generated)": 17.804,
+    "Number of Records": 5,
+    "Retweet Count": 42
+  },
+  {
+    "Place.Country": "Bolivia",
+    "Place.Country Code": "BO",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": -16.71,
+    "Longitude (generated)": -65.183,
+    "Number of Records": 2,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Belize",
+    "Place.Country Code": "BZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 17.108,
+    "Longitude (generated)": -88.744,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Belgium",
+    "Place.Country Code": "BE",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.378881988,
+    "Latitude (generated)": 50.6745,
+    "Longitude (generated)": 4.4588,
+    "Number of Records": 161,
+    "Retweet Count": 383
+  },
+  {
+    "Place.Country": "Barbados",
+    "Place.Country Code": "BB",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 13.147,
+    "Longitude (generated)": -59.557,
+    "Number of Records": 3,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Bangladesh",
+    "Place.Country Code": "BD",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.993630573,
+    "Latitude (generated)": 24.598,
+    "Longitude (generated)": 90.1963,
+    "Number of Records": 314,
+    "Retweet Count": 940
+  },
+  {
+    "Place.Country": "Bahrain",
+    "Place.Country Code": "BH",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 26.028,
+    "Longitude (generated)": 50.55,
+    "Number of Records": 3,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Bahamas",
+    "Place.Country Code": "BS",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 24.616,
+    "Longitude (generated)": -77.989,
+    "Number of Records": 5,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Azerbaijan",
+    "Place.Country Code": "AZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 40.46,
+    "Longitude (generated)": 47.883,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Austria",
+    "Place.Country Code": "AT",
+    "SUM([Retweet Count])/SUM([Number of Records])": 3.492537313,
+    "Latitude (generated)": 47.65,
+    "Longitude (generated)": 14.705,
+    "Number of Records": 67,
+    "Retweet Count": 234
+  },
+  {
+    "Place.Country": "Australia",
+    "Place.Country Code": "AU",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.398343373,
+    "Latitude (generated)": -24.578,
+    "Longitude (generated)": 133.582,
+    "Number of Records": 1328,
+    "Retweet Count": 3185
+  },
+  {
+    "Place.Country": "Aruba",
+    "Place.Country Code": "AW",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 12.556,
+    "Longitude (generated)": -70.024,
+    "Number of Records": 3,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Armenia",
+    "Place.Country Code": "AM",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.111111111,
+    "Latitude (generated)": 40.56,
+    "Longitude (generated)": 44.449,
+    "Number of Records": 9,
+    "Retweet Count": 19
+  },
+  {
+    "Place.Country": "Argentina",
+    "Place.Country Code": "AR",
+    "SUM([Retweet Count])/SUM([Number of Records])": 10.444444444,
+    "Latitude (generated)": -33.166,
+    "Longitude (generated)": -64.31,
+    "Number of Records": 36,
+    "Retweet Count": 376
+  },
+  {
+    "Place.Country": "Antigua and Barbuda",
+    "Place.Country Code": "AG",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0,
+    "Latitude (generated)": 17.625,
+    "Longitude (generated)": -61.786,
+    "Number of Records": 1,
+    "Retweet Count": 0
+  },
+  {
+    "Place.Country": "Algeria",
+    "Place.Country Code": "DZ",
+    "SUM([Retweet Count])/SUM([Number of Records])": 10.666666667,
+    "Latitude (generated)": 28.6045,
+    "Longitude (generated)": 2.64,
+    "Number of Records": 3,
+    "Retweet Count": 32
+  },
+  {
+    "Place.Country": "Albania",
+    "Place.Country Code": "AL",
+    "SUM([Retweet Count])/SUM([Number of Records])": 0.333333333,
+    "Latitude (generated)": 40.654,
+    "Longitude (generated)": 20.076,
+    "Number of Records": 6,
+    "Retweet Count": 2
+  },
+  {
+    "Place.Country": "Afghanistan",
+    "Place.Country Code": "AF",
+    "SUM([Retweet Count])/SUM([Number of Records])": 1.888888889,
+    "Latitude (generated)": 34.023,
+    "Longitude (generated)": 65.5267,
+    "Number of Records": 9,
+    "Retweet Count": 17
+  },
+  {
+    "Place.Country": "",
+    "Place.Country Code": "",
+    "SUM([Retweet Count])/SUM([Number of Records])": 2.477941176,
+    "Latitude (generated)": "",
+    "Longitude (generated)": "",
+    "Number of Records": 136,
+    "Retweet Count": 337
+  }
+]

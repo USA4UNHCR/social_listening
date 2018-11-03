@@ -58,7 +58,7 @@ export class SocialMapsComponent implements OnInit, AfterViewInit {
       series: [
         {
           data: this.DATA,
-          name: 'Random data',
+          name: 'Percentage',
           states: {
             hover: {
               color: '#BADA55'
