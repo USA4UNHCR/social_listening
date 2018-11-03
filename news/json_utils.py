@@ -8,20 +8,20 @@ from pymongo import MongoClient
 from bs4 import BeautifulSoup
 
 
-DATALOC = '../../data/news/'
+DATALOC = '../data/news/'
 KEYWORDS = ['refugee', 'refugees', 'migrant', 'migrants', 'asylum', 'rohingya',
             'immigrant', 'immigrants', 'UNHCR', 'UN Refugees', 'ICE',
             'deportation', 'border wall', 'illegal border crossing', 'syrians',
            'rohingya', 'fleeing']
 
 
-def get_jsonfiles(foldername):
+def get_jsonfiles(foldername=''):
     '''Get all files from folder'''
     foldername = os.path.join(DATALOC, foldername)
     return [jsonfile for jsonfile in os.listdir(foldername) if jsonfile.endswith('.json')]
 
 
-def get_jsons(jsonfiles, foldername):
+def get_jsons(jsonfiles, foldername=''):
     for jsonfile in jsonfiles:
         with open(os.path.join(DATALOC, foldername, jsonfile), 'r') as f:
             for line in f:
@@ -54,6 +54,8 @@ def get_article_text(html):
         timetag = soup.find('time')
         timetag = (timetag.text, timetag.attrs['datetime'])
     except AttributeError:
+        timetag = ('', '')
+    except KeyError:
         timetag = ('', '')
     return (True, (h1, h2, ' '.join(fulltext[:-1]), timetag))
 
