@@ -1,0 +1,58 @@
+@keyframes logo-right-slide-in
+  from
+    right: -10px
+  to
+    right: 30px
+
+@keyframes content-left-slide-in
+  from
+    left: -100px
+  to
+    left: 30px
+
+.app-social-news
+  background-color: #ff6b6b
+  width: 100%
+  height: calc(100vh - 58px)
+  position: relative
+  .background-logo
+    position: absolute
+    font-size: 100px
+    color: white
+    right: 30px
+    top: 20px
+    animation: logo-right-slide-in 0.8s ease-in-out
+  .main-content
+    position: absolute
+    left: 30px
+    bottom: 30px
+    height: calc(100vh - 160px)
+    width: calc(100vw - 200px)
+    animation: content-left-slide-in 0.8s ease-in-out
+    overfloww: scroll
+    display: flex
+    justify-content: space-between
+    .app-social-news-actions
+      width: 180px
+      display: flex
+      flex-direction: column
+      padding-right: 16px
+      border-right: 1px solid #efecec
+      > button
+        margin-bottom: 10px
+    .app-social-news-views
+      width: calc(100% - 200px)
+      .app-social-news-views-nav
+        height: 100%
+        display: flex
+        justify-content: space-around
+        align-items: center
+        .app-social-news-go-views
+          width: 200px
+          height: 150px
+          cursor: pointer
+          display: flex
+          align-items: center
+          text-align: center
+          justify-content: center
+

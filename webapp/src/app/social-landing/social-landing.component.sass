@@ -1,0 +1,42 @@
+.app-social-landing
+  width: 100%
+  height: calc(100vh - 58px)
+  background-size: contain
+  background-position: center center
+  display: flex
+  justify-content: center
+  align-items: center
+  .app-social-card-twitter, .app-social-card-news
+    cursor: pointer
+    > .mat-card
+      width: 130px
+      height: 130px
+      display: flex
+      justify-content: center
+      align-items: center
+      font-size: 48px
+    > p
+      width: 100%
+      text-align: center
+      height: 0
+      overflow: hidden
+    &:hover
+      > .mat-card
+        transform: scale(1.1)
+        transition: all 0.15s ease-in-out
+      > p
+        margin-top: 15px
+        height: 30px
+        transition: all 0.3s ease-in-out
+        font-size: 20px
+        font-weight: 300
+
+  .app-social-card-twitter
+    margin-right: 50px
+    .mat-card
+      background-color: #00aced
+      color: white
+  .app-social-card-news
+    .mat-card
+      background-color: #ff6b6b
+      color: white
