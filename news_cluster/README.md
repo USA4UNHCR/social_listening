@@ -35,7 +35,7 @@ Supporting functions to tokenize text documents, strip out noise + stopwords, et
 
 ### config.yml
 
-This is where the setting for the number of clusters to be generated lives, and whether to restrict processing to articles with refugee-related keywords.
+This is where various settings live, such as whether to restrict process to just articles with refugee keywords, hyperparameters for the modeling + clustering processes, etc.
 
 ### environment.yml
 
@@ -55,4 +55,4 @@ A few of the many ways this could be improved:
 
 3. *Algorithm tuning*: Currently the parameters in the Doc2Vec model and especially the k-means cluster model haven't been extensively tuned -- these could use further optimization for better results
 
-4. *More Config Options*: Currently only the number of clusters and 'refugee-article-only' processing settings are in config.yml. This could be extended to include other options, such as model hyperparameters, etc.
+4. *Config Options*: Probably more things could be parameterized in the config.yml than currently are.
