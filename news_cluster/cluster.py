@@ -26,8 +26,9 @@ else:
 # Load config
 with open("config.yml", 'r') as ymlfile:
     cfg = yaml.load(ymlfile)
-    include_only_refugee_articles = cfg['include_only_refugee_articles']
-    num_clusters = cfg['clusters']
+    include_only_refugee_articles = cfg['articles']['include_only_refugee_articles']
+    num_clusters = cfg['clustering']['clusters']
+    num_cluster_repeats = cfg['clustering']['num_cluster_repeats']
 
 # Generate tokens
 print("Generating tokens...")
@@ -61,7 +62,7 @@ for i in range(0,len(texts)):
 print("Creating clusters...")
 kmeans = nltk.cluster.KMeansClusterer(num_clusters, avoid_empty_clusters=True,\
                                           distance=nltk.cluster.util.cosine_distance,\
-                                          repeats=20)
+                                          repeats=num_cluster_repeats)
 clusters = kmeans.cluster(document_vectors, assign_clusters=True)
 
 print("Writing clusters to file...")

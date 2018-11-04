@@ -1,2 +1,11 @@
-clusters: 4
-include_only_refugee_articles: True
+articles:
+   include_only_refugee_articles: True
+clustering:
+   clusters: 4
+   num_cluster_repeats: 20
+doc2vec:
+   use_distributed_memory: True
+   vector_size: 50
+   max_epochs: 50
+   alpha: 0.025
+   min_word_frequency_count: 2

@@ -24,7 +24,12 @@ else:
 # Load config
 with open("config.yml", 'r') as ymlfile:
     cfg = yaml.load(ymlfile)
-    include_only_refugee_articles = cfg['include_only_refugee_articles']
+    include_only_refugee_articles = cfg['articles']['include_only_refugee_articles']
+    use_distributed_memory = int(cfg['doc2vec']['use_distributed_memory'] == True)
+    vector_size = cfg['doc2vec']['vector_size']
+    max_epochs = cfg['doc2vec']['max_epochs']
+    alpha = cfg['doc2vec']['alpha']
+    min_word_frequency_count = cfg['doc2vec']['min_word_frequency_count']
 
 # Load + tokenize articles
 articles = pd.read_csv(train_file)
@@ -36,16 +41,12 @@ texts = [' '.join(i) for i in tokens]
 tagged_documents = [TaggedDocument(words=word_tokenize(_d), tags=[str(i)])\
                     for i, _d in enumerate(texts)]
 
-# Model training + hyperparameters
-max_epochs = 50
-vector_size = 50
-alpha = 0.025
-
-model = Doc2Vec(dm=1,
+# Model training
+model = Doc2Vec(dm=use_distributed_memory,
                 vector_size=vector_size,
                 alpha=alpha, 
                 min_alpha=0.0025,
-                min_count=2)
+                min_count=min_word_frequency_count)
   
 model.build_vocab(tagged_documents)
 
