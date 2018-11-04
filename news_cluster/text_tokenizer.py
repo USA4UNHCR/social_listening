@@ -1,4 +1,4 @@
-# Tokenizes artile text to make ready for modeling
+# Tokenizes article text to make ready for modeling; also flags refugee-related texts
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 

@@ -1,3 +1,4 @@
+# Doc2Vec model training script
 import nltk.cluster
 import pandas as pd
 import numpy as np
@@ -32,10 +33,10 @@ print('Tokenizing articles...')
 tokens = generate_tokens(articles['body'].tolist(), include_only_refugee_articles = include_only_refugee_articles)
 texts = [' '.join(i) for i in tokens]
 
-# Model training
 tagged_documents = [TaggedDocument(words=word_tokenize(_d), tags=[str(i)])\
                     for i, _d in enumerate(texts)]
 
+# Model training + hyperparameters
 max_epochs = 50
 vector_size = 50
 alpha = 0.025
@@ -49,7 +50,7 @@ model = Doc2Vec(dm=1,
 model.build_vocab(tagged_documents)
 
 for epoch in range(max_epochs):
-    print('Training iteration ' + str(epoch+1) + ' of ' + str(max_epochs) + "...")
+    print('Doc2Vec model training iteration ' + str(epoch+1) + ' of ' + str(max_epochs) + "...")
     model.train(tagged_documents,
                 total_examples=model.corpus_count,
                 epochs=model.epochs)
