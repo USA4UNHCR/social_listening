@@ -6,15 +6,24 @@ import pandas as pd
 import sys
 
 # Read input and output files from command line
-cluster_input_file = sys.argv[1]
+try:
+	cluster_input_file = sys.argv[1]
+except IndexError:
+	print('ERROR: Requires an input filename of texts to cluster.')
+	sys.exit(1)
+
 if len(sys.argv) < 3: 
 	cluster_output_file = 'output/cluster_assignments.csv' 
 else:
 	cluster_output_file = sys.argv[2]
 
+if len(sys.argv) < 4:
+	model_file = 'news.model'
+else:
+	model_file = sys.argv[3]
+
 # Config
 include_only_refugee_articles = True
-model_file = 'news.model'
 num_clusters = 4
 
 # Generate tokens

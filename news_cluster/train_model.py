@@ -8,7 +8,12 @@ from text_tokenizer import generate_tokens
 from gensim.models.doc2vec import TaggedDocument, Doc2Vec
 
 # Read training and output files from command line
-train_file = sys.argv[1]
+try:
+	train_file = sys.argv[1]
+except IndexError:
+	print('ERROR: Requires an input text filename of documents to train on.')
+	sys.exit(1)
+
 if len(sys.argv) <3:
 	model_file = 'news.model'
 else:
