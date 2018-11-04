@@ -4,8 +4,10 @@ import pandas as pd
 import os
 
 # Config
-foldername = os.path.join('json/')
-output_file = 'output/unpacked_articles.csv'
+# Folder to import .JSON files to process
+foldername = os.path.join('json/') 
+# Where to store processed articles (.CSV format)
+output_file = 'output/unpacked_articles.csv' 
 
 # Unpack JSON
 jsonfiles = [jsonfile for jsonfile in os.listdir(foldername) if jsonfile.endswith('.json')]
