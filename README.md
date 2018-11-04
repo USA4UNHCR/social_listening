@@ -72,3 +72,10 @@ publications which we will share using USB drives (to not overload the wifi).
 
 Before diving into the data, we encourage you to think what may help USA for
 UNHCR? Sometimes, the simplest ideas are the most impactful. For example, what happened to Tweet ID: 1042863152113831936?
+
+## WEB App
+```
+cd webapp
+npm install
+```
+Run `node_modules/@angular/cli/bin/ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
