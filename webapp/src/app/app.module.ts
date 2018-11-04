@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 // MODULES
 import { MaterialModule } from './_modules/app-material.module';
 import { AppRoutingModule } from './_modules/app-routing.module';
+import { TagCloudModule } from 'angular-tag-cloud-module';
 // import { ChartModule, HIGHCHARTS_MODULES } from 'angular-highcharts';
 // import { HighchartsChartModule } from 'highcharts-angular';
 import * as highmaps from 'highcharts/modules/map.src';
@@ -23,6 +24,7 @@ import { SocialComboDualAxesComponent } from './social-combo-dual-axes/social-co
 import { SocialTwitterCountryTweetComponent } from './social-twitter-country-tweet/social-twitter-country-tweet.component';
 import { SocialTwitterWordcloudComponent } from './social-twitter-wordcloud/social-twitter-wordcloud.component';
 import { SocialTwitterCountriesTweetComponent } from './social-twitter-countries-tweet/social-twitter-countries-tweet.component';
+import { SocialNewsBreitbartWordcloudComponent } from './social-news-breitbart-wordcloud/social-news-breitbart-wordcloud.component';
 
 
 @NgModule({
@@ -38,7 +40,8 @@ import { SocialTwitterCountriesTweetComponent } from './social-twitter-countries
     // SocialComboDualAxesComponent,
     SocialTwitterCountryTweetComponent,
     SocialTwitterWordcloudComponent,
-    SocialTwitterCountriesTweetComponent
+    SocialTwitterCountriesTweetComponent,
+    SocialNewsBreitbartWordcloudComponent
   ],
   imports: [
     BrowserModule,
@@ -47,7 +50,8 @@ import { SocialTwitterCountriesTweetComponent } from './social-twitter-countries
     MaterialModule,
     // ChartModule,
     // HighchartsChartModule,
-    HttpClientModule
+    HttpClientModule,
+    TagCloudModule
   ],
   providers: [
     // { provide: HIGHCHARTS_MODULES, useFactory: () => [highmaps] }

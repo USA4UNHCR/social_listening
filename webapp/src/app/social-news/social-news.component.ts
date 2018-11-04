@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SocialNewsComponent implements OnInit {
 
+  view;
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
+  changeView(view?) {
+    this.view = view;
+  }
 }

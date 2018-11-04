@@ -2,5 +2,38 @@
   <i class="fa fa-newspaper-o background-logo" aria-hidden="true"></i>
   <mat-card class="main-content">
 
+    <!-- Actions -->
+    <section class="app-social-news-actions">
+      <button mat-raised-button color="primary" routerLink="/">
+        <i class="fa fa-home mr-1" aria-hidden="true"></i>
+        Back to home
+      </button>
+      <button mat-raised-button color="primary" (click)="changeView()" *ngIf="view">
+        <i class="fa fa-newspaper-o mr-1" aria-hidden="true"></i>
+        Back to news
+      </button>
+    </section>
+
+    <!-- Views -->
+    <section class="app-social-news-views">
+      <ng-container [ngSwitch]="view">
+
+        <app-social-news-breitbart-wordcloud
+          *ngSwitchCase="'news-breitbart-wordcloud'"
+        ></app-social-news-breitbart-wordcloud>
+
+        <!-- <app-social-news-countries-tweet *ngSwitchCase="'news-country-tweet'"></app-social-news-countries-tweet> -->
+
+
+        <!-- Go to view -->
+        <div class="app-social-news-views-nav" *ngSwitchDefault>
+
+          <!-- Word Cloud -->
+          <mat-card (click)="changeView('news-breitbart-wordcloud')" class="app-social-news-go-views">
+            Word Cloud
+          </mat-card>
+        </div>
+      </ng-container>
+    </section>
   </mat-card>
 </div>
