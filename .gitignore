@@ -3,6 +3,9 @@
 
 # Ignore large data files in repo
 data/*
+news_cluster/json/*
+news_cluster/output/*
+news_cluster/input_data/*
 
 # Ignore temporary scratch notebooks
 scratch/*
