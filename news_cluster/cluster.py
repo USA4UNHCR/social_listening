@@ -4,6 +4,7 @@ from text_tokenizer import generate_tokens, is_refugee_article
 import nltk.cluster
 import pandas as pd
 import sys
+import yaml
 
 # Read input and output files from command line
 try:
@@ -22,9 +23,11 @@ if len(sys.argv) < 4:
 else:
 	model_file = sys.argv[3]
 
-# Config
-include_only_refugee_articles = True
-num_clusters = 4
+# Load config
+with open("config.yml", 'r') as ymlfile:
+    cfg = yaml.load(ymlfile)
+    include_only_refugee_articles = cfg['include_only_refugee_articles']
+    num_clusters = cfg['clusters']
 
 # Generate tokens
 print("Generating tokens...")

@@ -2,6 +2,7 @@ import nltk.cluster
 import pandas as pd
 import numpy as np
 import sys
+import yaml
 
 from nltk.tokenize import word_tokenize
 from text_tokenizer import generate_tokens
@@ -19,8 +20,10 @@ if len(sys.argv) <3:
 else:
 	model_file = sys.argv[2]
 
-# Config
-include_only_refugee_articles = True
+# Load config
+with open("config.yml", 'r') as ymlfile:
+    cfg = yaml.load(ymlfile)
+    include_only_refugee_articles = cfg['include_only_refugee_articles']
 
 # Load + tokenize articles
 articles = pd.read_csv(train_file)

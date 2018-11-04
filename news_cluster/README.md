@@ -33,6 +33,10 @@ Supporting functions to tokenize text documents, strip out noise + stopwords, et
 
 ## Miscellaneous
 
+### config.yml
+
+This is where the setting for the number of clusters to be generated lives, and whether to restrict processing to articles with refugee-related keywords.
+
 ### environment.yml
 
 Contains a dump of the packages in the Python (Anaconda) environment used for this project (may contain a few extra unused general data sci packages -- sorry!)
@@ -51,5 +55,4 @@ A few of the many ways this could be improved:
 
 3. *Algorithm tuning*: Currently the parameters in the Doc2Vec model and especially the k-means cluster model haven't been extensively tuned -- these could use further optimization for better results
 
-4. *Universal configuration*: Currently configuration options are stored in the "Config" section of the python scripts, and some options are duplicated across scripts. :/
-
+4. *More Config Options*: Currently only the number of clusters and 'refugee-article-only' processing settings are in config.yml. This could be extended to include other options, such as model hyperparameters, etc.

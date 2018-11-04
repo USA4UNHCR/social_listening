@@ -3,7 +3,6 @@ import json_utils as ju
 import pandas as pd
 import os
 
-# Config
 # Folder to import .JSON files to process
 foldername = os.path.join('json/') 
 # Where to store processed articles (.CSV format)
@@ -11,7 +10,6 @@ output_file = 'output/unpacked_articles.csv'
 
 # Unpack JSON
 jsonfiles = [jsonfile for jsonfile in os.listdir(foldername) if jsonfile.endswith('.json')]
-jsonfiles = jsonfiles[0:20]
 jsons = ju.get_jsons(jsonfiles)
 article = next(jsons)
 
